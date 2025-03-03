@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "192.168.18.245",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Home geolotes",
+            "database": "geolotes",
+            "username": "geolotes"
+        }
+    ],
+    "cSpell.words": [
+        "drawend",
+        "drawstart",
+        "EPSG",
+        "modifyend",
+        "singleclick"
+    ]
+}

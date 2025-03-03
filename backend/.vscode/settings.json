@@ -1,0 +1,27 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "192.168.0.131",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Home geolotes",
+            "database": "geolotes",
+            "username": "geolotes"
+        }
+    ],
+    "cSpell.words": [
+        "cobranca",
+        "CODIGO",
+        "DISTRIBUICAO",
+        "EMISSAO",
+        "geolotes",
+        "IDENTIFICACAO",
+        "movimentacao",
+        "negativacoes",
+        "prorrogacoes",
+        "Sicoob",
+        "SICOOB",
+        "solicitacao"
+    ]
+}
